@@ -1,9 +1,8 @@
-# P7  
+# P7 : Projet de NLP consistant à prédire le sentiment associé à un tweet  
 <img src="/img/cs.png" width="150"> <img src="/img/aml.png" width="150"> <img src="/img/keras.png" width="150">   
 <img src="/img/hug.png" width="150"> <img src="/img/bert.png" width="150">   
  
-**Projet de NLP consistant à prédire le sentiment associé à un tweet**  
-  
+## Enjeu    
 L'enjeu consiste à concevoir un modele fonctionnel récupérant le tweet et fournissant le sentiment prédit selon 3 approches:     
 * API étagère de azure cognitives services  
 * modèle bespoke simple utilisant une regression logistive mettant en oeuvre le designer de azure ML
